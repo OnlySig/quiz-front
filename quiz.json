@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Qual é o maior continente do mundo?",
+      "options": ["África", "Europa", "Ásia", "América do Norte"],
+      "answer": "Ásia"
+    },
+    {
+      "question": "Qual é o país mais populoso do mundo?",
+      "options": ["Índia", "Estados Unidos", "China", "Brasil"],
+      "answer": "China"
+    },
+    {
+      "question": "Qual é o menor país do mundo em área?",
+      "options": ["Mônaco", "Malta", "Vaticano", "San Marino"],
+      "answer": "Vaticano"
+    },
+    {
+      "question": "Em qual continente está localizado o deserto do Saara?",
+      "options": ["Ásia", "América do Sul", "África", "Austrália"],
+      "answer": "África"
+    },
+    {
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississippi"],
+      "answer": "Rio Nilo"
+    },
+    {
+      "question": "Qual é a capital da Austrália?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Qual país tem o maior número de fusos horários?",
+      "options": ["Estados Unidos", "Rússia", "França", "China"],
+      "answer": "França"
+    },
+    {
+      "question": "Qual país é conhecido como a Terra do Sol Nascente?",
+      "options": ["China", "Coreia do Sul", "Japão", "Tailândia"],
+      "answer": "Japão"
+    },
+    {
+      "question": "Qual é a maior ilha do mundo?",
+      "options": ["Groenlândia", "Madagáscar", "Nova Guiné", "Islândia"],
+      "answer": "Groenlândia"
+    },
+    {
+      "question": "Qual é a montanha mais alta do mundo?",
+      "options": ["Monte Everest", "K2", "Kangchenjunga", "Monte Kilimanjaro"],
+      "answer": "Monte Everest"
+    },
+    {
+      "question": "Qual é a capital do Canadá?",
+      "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Qual é o oceano mais profundo do mundo?",
+      "options": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+      "answer": "Pacífico"
+    },
+    {
+      "question": "Qual é o maior país da América do Sul?",
+      "options": ["Argentina", "Brasil", "Colômbia", "Peru"],
+      "answer": "Brasil"
+    },
+    {
+      "question": "Em qual hemisfério está localizada a Antártica?",
+      "options": ["Norte", "Sul", "Leste", "Oeste"],
+      "answer": "Sul"
+    },
+    {
+      "question": "Qual país é famoso por seus canais e tulipas?",
+      "options": ["Bélgica", "Dinamarca", "Holanda", "Suécia"],
+      "answer": "Holanda"
+    },
+    {
+      "question": "Qual país abriga as Pirâmides de Gizé?",
+      "options": ["Sudão", "Egito", "Marrocos", "Arábia Saudita"],
+      "answer": "Egito"
+    },
+    {
+      "question": "Qual é o menor continente em área?",
+      "options": ["Europa", "Ásia", "Antártica", "Oceania"],
+      "answer": "Oceania"
+    },
+    {
+      "question": "Qual é o maior lago do mundo em volume?",
+      "options": ["Lago Superior", "Lago Vitória", "Mar Cáspio", "Lago Baikal"],
+      "answer": "Mar Cáspio"
+    },
+    {
+      "question": "Qual país é conhecido por sua bandeira vermelha com uma folha de bordo?",
+      "options": ["Estados Unidos", "Canadá", "Austrália", "Dinamarca"],
+      "answer": "Canadá"
+    },
+    {
+      "question": "Qual é a capital da França?",
+      "options": ["Paris", "Marselha", "Lyon", "Nice"],
+      "answer": "Paris"
+    }
+  ]
+}
