@@ -18,9 +18,10 @@ function App() {
   };
   if (acerto.length + errado.length === quiz.questions.length) {
     alert(`Você acertou: ${acerto.length} e errou: ${errado.length}`);
+    window.location.reload();
   }
   return (
-    <>
+    <section className="flex flex-col items-center w-[75%] mx-auto">
       {quiz.questions.map((questão, index) => (
         <Pegunta
           question={questão.question}
@@ -29,7 +30,7 @@ function App() {
           onClick={(e) => handleClick(e, questão)}
         />
       ))}
-    </>
+    </section>
   );
 }
 

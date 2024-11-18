@@ -14,18 +14,25 @@ const Pegunta = ({ question, options, onClick }: IProps) => {
     }, 100);
   };
   return (
-    <div>
-      <h2>{question}</h2>
-      {options.map((question) => (
-        <button
-          id={question}
-          onClick={onClick}
-          onClickCapture={desabilitar}
-          disabled={disabled}
-        >
-          {question}
-        </button>
-      ))}
+    <div className="w-full my-4">
+      <h2 className="text-center mb-2 text-2xl">{question}</h2>
+      <div className="flex gap-2 w-full justify-center flex-wrap ">
+        {options.map((question) => (
+          <button
+            className={`p-2 mx-1 w-[470px] flex-grow rounded-full text-white ${
+              disabled
+                ? "bg-slate-950"
+                : "bg-slate-500 hover:bg-slate-700 cursor-pointer"
+            }`}
+            id={question}
+            onClick={onClick}
+            onClickCapture={desabilitar}
+            disabled={disabled}
+          >
+            {question}
+          </button>
+        ))}
+      </div>
     </div>
   );
 };
